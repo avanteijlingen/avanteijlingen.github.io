@@ -1,3 +1,1 @@
 # avanteijlingen.github.io
-
-*test*
